@@ -20,7 +20,7 @@ Welcome to the **Gibberish Oracle** — a minimalist chaos engine that takes gib
 ## 🚀 Live Demo
 
 Check it out here:  
-**[https://your-site-name.netlify.app](https://your-site-name.netlify.app)**
+**[my-website](https://gibberishoracle.netlify.app/)**
 
 ---
 📚 Reference Use
