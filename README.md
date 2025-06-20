@@ -3,7 +3,6 @@
 Welcome to the **Gibberish Oracle** — a minimalist chaos engine that takes gibberish as input and returns randomized, grammatically sensible nonsense. Every letter you type becomes a mysterious word in a sentence that only the cosmos understands.
 
 > ✨ Type. Submit. Receive surreal wisdom. Repeat.
-See [LICENSE](./LICENSE) for details.
 
 ---
 
@@ -33,3 +32,5 @@ Just give credit ✨
 
 ✍️ Author
 Built with chaos by Laasya
+
+See [LICENSE](./LICENSE) for details.
